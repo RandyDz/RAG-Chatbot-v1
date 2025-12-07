@@ -9,7 +9,7 @@ Aplikasi Chatbot berbasis **Retrieval-Augmented Generation (RAG)** yang dirancan
 
 Proyek ini dibangun untuk mendemonstrasikan bagaimana **Large Language Model (LLM)** dapat digabungkan dengan **Vector Database** untuk mengurangi jawaban halusinasi dan memberikan jawaban berbasis sumber yang valid.
 
-🔗 **Coba Aplikasi:** [Klik di sini untuk mencoba](https://rag-chatbot-v1-vzkrkymusbix9rrugjykwf.streamlit.app/)
+🔗 **Coba Aplikasi:** [Klik di sini untuk mencoba](https://diskominfo-chatbot.streamlit.app/)
 
 ---
 
